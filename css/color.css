@@ -2,11 +2,9 @@
   box-sizing: border-box; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Avenir, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  color: #000;
-  background-color: #ccc;
 }
 
 a {
@@ -19,14 +17,14 @@ a:hover {
   text-decoration: none;
 }
 
-.heading {
+/*.heading {
   background-color: #999;
-}
+}*/
 
-h1 small {
+/*h1 small {
   color: #333;
   font-size: .6em;
-}
+}*/
 
 .box {
   background-color: #eee;
