@@ -7,15 +7,24 @@ body {
 }
 
 
+h1 {
+  font-size: 30pt;
+}
+
 img {
   width: 100%;
+}
+
+.menu {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #eee;
 }
 
 .box {
   margin-top: 20px;
   padding: 10px 20px;
 }
-
 
 h2 {
   font-size: 14pt;
