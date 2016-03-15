@@ -7,6 +7,10 @@ body {
   line-height: 1.5;
 }
 
+.heading {
+  background-color: white;
+}
+
 a {
   color: #222;
   text-decoration: none;
@@ -17,14 +21,13 @@ a:hover {
   text-decoration: none;
 }
 
-/*.heading {
-  background-color: #999;
-}*/
+.menu {
+  background-color: #eee;
+}
 
-/*h1 small {
-  color: #333;
-  font-size: .6em;
-}*/
+.menu:hover {
+  background-color: #ff471a;
+}
 
 .box {
   background-color: #eee;
@@ -32,6 +35,10 @@ a:hover {
 
 .box a.read-more {
   text-decoration: underline;
+}
+
+.color:hover {
+  background-color: #ff471a;
 }
 
 .footer {
