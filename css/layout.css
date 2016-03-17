@@ -29,6 +29,10 @@ img {
   display: inline;
 }
 
+p.list {
+  padding-left: 50px;
+}
+
 h2 {
   font-size: 14pt;
 }
@@ -55,4 +59,8 @@ h3 {
 
 .footer {
   margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
